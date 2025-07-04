@@ -1,0 +1,252 @@
+2025-07-03 09:57:55,905 - INFO - Starting API and loading employee data...
+2025-07-03 09:57:55,905 - INFO - Fetching employee data from external API...
+2025-07-03 09:58:01,509 - INFO - Fetched 21 employee records.
+2025-07-03 09:58:35,401 - INFO - Loaded 21 encodings.
+2025-07-03 09:58:35,404 - INFO - Employee data loaded successfully.
+2025-07-03 09:59:02,038 - INFO - Recognition API called.
+2025-07-03 09:59:02,369 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 1.50
+2025-07-03 09:59:02,369 - WARNING - Liveness failed.
+2025-07-03 09:59:07,513 - INFO - Recognition API called.
+2025-07-03 09:59:07,785 - INFO - Liveness Check: Depth looks real
+2025-07-03 09:59:08,657 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 09:59:08,657 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 10:14:44,234 - INFO - Starting API and loading employee data...
+2025-07-03 10:14:44,235 - INFO - Fetching employee data from external API...
+2025-07-03 10:14:50,202 - INFO - Fetched 21 employee records.
+2025-07-03 10:15:34,015 - INFO - Loaded 21 encodings.
+2025-07-03 10:15:34,019 - INFO - Employee data loaded successfully.
+2025-07-03 10:16:47,836 - INFO - Recognition API called.
+2025-07-03 10:16:48,448 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 0.00
+2025-07-03 10:16:48,448 - WARNING - Liveness failed.
+2025-07-03 10:16:52,561 - INFO - Recognition API called.
+2025-07-03 10:16:53,219 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 0.00
+2025-07-03 10:16:53,219 - WARNING - Liveness failed.
+2025-07-03 10:16:57,359 - INFO - Recognition API called.
+2025-07-03 10:16:58,039 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 3.00
+2025-07-03 10:16:58,040 - WARNING - Liveness failed.
+2025-07-03 10:17:04,394 - INFO - Recognition API called.
+2025-07-03 10:17:05,034 - INFO - Liveness Check: Depth looks real
+2025-07-03 10:17:06,890 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 10:17:06,891 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 11:30:44,785 - INFO - Starting API and loading employee data...
+2025-07-03 11:30:44,785 - INFO - Fetching employee data from external API...
+2025-07-03 11:30:49,284 - INFO - Fetched 21 employee records.
+2025-07-03 11:31:26,641 - INFO - Loaded 21 encodings.
+2025-07-03 11:31:26,645 - INFO - Employee data loaded successfully.
+2025-07-03 11:31:40,971 - INFO - Root route '/' accessed.
+2025-07-03 11:32:14,362 - INFO - Recognition API called.
+2025-07-03 11:32:14,741 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 1.50
+2025-07-03 11:32:14,742 - WARNING - Liveness failed.
+2025-07-03 11:32:19,167 - INFO - Recognition API called.
+2025-07-03 11:32:19,599 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 4.00
+2025-07-03 11:32:19,599 - WARNING - Liveness failed.
+2025-07-03 11:32:55,037 - INFO - Recognition API called.
+2025-07-03 11:32:55,321 - INFO - Liveness Check: Depth looks real
+2025-07-03 11:32:56,319 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 11:32:56,323 - INFO - Image similarity score: 0.211495
+2025-07-03 11:32:56,323 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 11:35:53,001 - INFO - Starting API and loading employee data...
+2025-07-03 11:35:53,001 - INFO - Fetching employee data from external API...
+2025-07-03 11:35:57,787 - INFO - Fetched 21 employee records.
+2025-07-03 11:36:43,475 - INFO - Loaded 21 encodings.
+2025-07-03 11:36:43,477 - INFO - Employee data loaded successfully.
+2025-07-03 11:36:46,535 - INFO - Starting API and loading employee data...
+2025-07-03 11:36:46,535 - INFO - Fetching employee data from external API...
+2025-07-03 11:36:50,999 - INFO - Fetched 21 employee records.
+2025-07-03 11:37:21,799 - INFO - Loaded 21 encodings.
+2025-07-03 11:37:21,802 - INFO - Employee data loaded successfully.
+2025-07-03 11:37:38,821 - INFO - Recognition API called.
+2025-07-03 11:37:39,210 - INFO - Liveness Check: Depth looks real
+2025-07-03 11:37:40,241 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 11:37:40,242 - INFO - Image similarity score: 0.191051
+2025-07-03 11:37:40,242 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 11:40:11,959 - INFO - Starting API and loading employee data...
+2025-07-03 11:40:11,959 - INFO - Fetching employee data from external API...
+2025-07-03 11:40:16,694 - INFO - Fetched 21 employee records.
+2025-07-03 11:40:51,342 - INFO - Loaded 21 encodings.
+2025-07-03 11:40:51,346 - INFO - Employee data loaded successfully.
+2025-07-03 11:40:54,274 - INFO - Starting API and loading employee data...
+2025-07-03 11:40:54,274 - INFO - Fetching employee data from external API...
+2025-07-03 11:41:07,820 - INFO - Fetched 21 employee records.
+2025-07-03 11:41:38,084 - INFO - Loaded 21 encodings.
+2025-07-03 11:41:38,088 - INFO - Employee data loaded successfully.
+2025-07-03 11:41:48,662 - INFO - Root route '/' accessed.
+2025-07-03 11:41:57,449 - INFO - Recognition API called.
+2025-07-03 11:41:57,830 - INFO - Liveness Check: Depth looks real
+2025-07-03 11:41:58,973 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 11:41:58,974 - INFO - Image similarity score: 0.219640
+2025-07-03 11:41:58,975 - WARNING - Image too similar to stored profile photo. Possible photo attack.
+2025-07-03 11:42:15,090 - INFO - Recognition API called.
+2025-07-03 11:42:15,275 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 4.00
+2025-07-03 11:42:15,276 - WARNING - Liveness failed.
+2025-07-03 11:42:19,489 - INFO - Recognition API called.
+2025-07-03 11:42:19,823 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 4.00
+2025-07-03 11:42:19,823 - WARNING - Liveness failed.
+2025-07-03 11:42:24,768 - INFO - Recognition API called.
+2025-07-03 11:42:25,058 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 4.50
+2025-07-03 11:42:25,058 - WARNING - Liveness failed.
+2025-07-03 11:43:34,838 - INFO - Recognition API called.
+2025-07-03 11:43:35,174 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 4.00
+2025-07-03 11:43:35,175 - WARNING - Liveness failed.
+2025-07-03 11:45:56,509 - INFO - Starting API and loading employee data...
+2025-07-03 11:45:56,510 - INFO - Fetching employee data from external API...
+2025-07-03 11:46:01,081 - INFO - Fetched 21 employee records.
+2025-07-03 11:46:45,117 - INFO - Loaded 21 encodings.
+2025-07-03 11:46:45,120 - INFO - Employee data loaded successfully.
+2025-07-03 11:46:48,547 - INFO - Starting API and loading employee data...
+2025-07-03 11:46:48,548 - INFO - Fetching employee data from external API...
+2025-07-03 11:46:52,916 - INFO - Fetched 21 employee records.
+32025-07-03 11:47:38,758 - INFO - Loaded 21 encodings.
+2025-07-03 11:47:38,763 - INFO - Employee data loaded successfully.
+2025-07-03 11:48:07,850 - INFO - Recognition API called.
+2025-07-03 11:48:08,182 - INFO - Liveness Check: Depth looks real
+2025-07-03 11:48:09,132 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 11:48:09,133 - INFO - Image similarity score: 0.225408
+2025-07-03 11:48:09,133 - WARNING - Image too similar to stored profile photo. Possible photo attack.
+2025-07-03 11:48:18,122 - INFO - Recognition API called.
+2025-07-03 11:48:18,408 - INFO - Liveness Check: Depth looks real
+2025-07-03 11:48:19,416 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 11:48:19,417 - INFO - Image similarity score: 0.240562
+2025-07-03 11:48:19,417 - WARNING - Image too similar to stored profile photo. Possible photo attack.
+2025-07-03 11:49:03,413 - INFO - Recognition API called.
+2025-07-03 11:49:04,077 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 4.00
+2025-07-03 11:49:04,078 - WARNING - Liveness failed.
+2025-07-03 11:49:22,660 - INFO - Recognition API called.
+2025-07-03 11:49:23,361 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 2.50
+2025-07-03 11:49:23,362 - WARNING - Liveness failed.
+2025-07-03 11:49:29,269 - INFO - Recognition API called.
+2025-07-03 11:49:30,059 - INFO - Liveness Check: Depth looks real
+2025-07-03 11:49:32,011 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 11:49:32,012 - INFO - Image similarity score: 0.203357
+2025-07-03 11:49:32,014 - WARNING - Image too similar to stored profile photo. Possible photo attack.
+2025-07-03 12:02:45,611 - INFO - Root route '/' accessed.
+2025-07-03 12:02:49,616 - INFO - Recognition API called.
+2025-07-03 12:02:50,300 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:02:52,283 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:02:52,284 - INFO - Image similarity score: 0.515048
+2025-07-03 12:02:52,285 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:02:58,483 - INFO - Recognition API called.
+2025-07-03 12:02:59,187 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:03:01,236 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:03:01,238 - INFO - Image similarity score: 0.535028
+2025-07-03 12:03:01,238 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:03:13,196 - INFO - Recognition API called.
+2025-07-03 12:03:13,909 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:03:15,875 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:03:15,877 - INFO - Image similarity score: 0.510213
+2025-07-03 12:03:15,878 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:04:46,096 - INFO - Starting API and loading employee data...
+2025-07-03 12:04:46,096 - INFO - Fetching employee data from external API...
+2025-07-03 12:04:50,211 - INFO - Fetched 20 employee records.
+2025-07-03 12:05:19,175 - INFO - Loaded 20 encodings.
+2025-07-03 12:05:19,179 - INFO - Employee data loaded successfully.
+2025-07-03 12:05:21,778 - INFO - Starting API and loading employee data...
+2025-07-03 12:05:21,778 - INFO - Fetching employee data from external API...
+2025-07-03 12:05:26,390 - INFO - Fetched 20 employee records.
+2025-07-03 12:06:06,828 - INFO - Loaded 20 encodings.
+2025-07-03 12:06:06,832 - INFO - Employee data loaded successfully.
+2025-07-03 12:07:12,564 - INFO - Root route '/' accessed.
+2025-07-03 12:07:15,119 - INFO - Recognition API called.
+2025-07-03 12:07:15,544 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:07:16,611 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:07:16,612 - INFO - Image similarity score: 0.492857
+2025-07-03 12:07:16,613 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:07:23,402 - INFO - Recognition API called.
+2025-07-03 12:07:23,680 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:07:24,625 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:07:24,625 - INFO - Image similarity score: 0.509056
+2025-07-03 12:07:24,626 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:07:51,530 - INFO - Recognition API called.
+2025-07-03 12:07:51,828 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:07:52,740 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:07:52,740 - INFO - Image similarity score: 0.492743
+2025-07-03 12:07:52,741 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:08:20,824 - INFO - Recognition API called.
+2025-07-03 12:08:21,177 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:08:22,044 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:08:22,045 - INFO - No match found.
+2025-07-03 12:26:19,889 - INFO - Starting API and loading employee data...
+2025-07-03 12:26:19,890 - INFO - Fetching employee data from external API...
+2025-07-03 12:26:28,762 - INFO - Fetched 20 employee records.
+2025-07-03 12:27:31,809 - INFO - Loaded 20 encodings.
+2025-07-03 12:27:31,816 - INFO - Employee data loaded successfully.
+2025-07-03 12:27:34,785 - INFO - Starting API and loading employee data...
+2025-07-03 12:27:34,785 - INFO - Fetching employee data from external API...
+2025-07-03 12:27:39,627 - INFO - Fetched 20 employee records.
+2025-07-03 12:28:42,696 - INFO - Loaded 20 encodings.
+2025-07-03 12:28:42,704 - INFO - Employee data loaded successfully.
+2025-07-03 12:38:03,735 - INFO - Starting API and loading employee data...
+2025-07-03 12:38:03,736 - INFO - Fetching employee data from external API...
+2025-07-03 12:38:08,189 - INFO - Fetched 20 employee records.
+2025-07-03 12:38:50,194 - INFO - Loaded 20 encodings.
+2025-07-03 12:38:50,200 - INFO - Employee data loaded successfully.
+2025-07-03 12:39:06,358 - INFO - Starting API and loading employee data...
+2025-07-03 12:39:06,359 - INFO - Fetching employee data from external API...
+2025-07-03 12:39:11,244 - INFO - Fetched 20 employee records.
+2025-07-03 12:40:01,642 - INFO - Loaded 20 encodings.
+2025-07-03 12:40:01,645 - INFO - Employee data loaded successfully.
+2025-07-03 12:40:04,320 - INFO - Starting API and loading employee data...
+2025-07-03 12:40:04,321 - INFO - Fetching employee data from external API...
+2025-07-03 12:40:08,748 - INFO - Fetched 20 employee records.
+2025-07-03 12:40:37,983 - INFO - Loaded 20 encodings.
+2025-07-03 12:40:37,986 - INFO - Employee data loaded successfully.
+2025-07-03 12:40:42,920 - INFO - Root route '/' accessed.
+2025-07-03 12:40:45,441 - INFO - Recognition API called.
+2025-07-03 12:40:45,841 - INFO - Liveness Check: Liveness passed
+2025-07-03 12:40:47,047 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:40:47,049 - INFO - No match found.
+2025-07-03 12:40:51,604 - INFO - Recognition API called.
+2025-07-03 12:40:51,987 - INFO - Liveness Check: Liveness passed
+2025-07-03 12:40:53,255 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:40:53,257 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:41:10,943 - INFO - Recognition API called.
+2025-07-03 12:41:11,242 - INFO - Liveness Check: Liveness passed
+2025-07-03 12:41:12,080 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:41:12,081 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:41:42,445 - INFO - Starting API and loading employee data...
+2025-07-03 12:41:42,446 - INFO - Fetching employee data from external API...
+2025-07-03 12:41:47,423 - INFO - Fetched 20 employee records.
+2025-07-03 12:42:48,899 - INFO - Loaded 20 encodings.
+2025-07-03 12:42:48,905 - INFO - Employee data loaded successfully.
+2025-07-03 12:42:52,172 - INFO - Starting API and loading employee data...
+2025-07-03 12:42:52,173 - INFO - Fetching employee data from external API...
+2025-07-03 12:42:56,771 - INFO - Fetched 20 employee records.
+2025-07-03 12:43:37,144 - INFO - Loaded 20 encodings.
+2025-07-03 12:43:37,148 - INFO - Employee data loaded successfully.
+2025-07-03 12:48:31,103 - INFO - Starting API and loading employee data...
+2025-07-03 12:48:31,103 - INFO - Fetching employee data from external API...
+2025-07-03 12:48:36,464 - INFO - Fetched 20 employee records.
+2025-07-03 12:49:09,564 - INFO - Loaded 20 encodings.
+2025-07-03 12:49:09,569 - INFO - Employee data loaded successfully.
+2025-07-03 12:50:43,567 - INFO - Root route '/' accessed.
+2025-07-03 12:50:45,912 - INFO - Recognition API called.
+2025-07-03 12:50:46,086 - INFO - Liveness Check: Flat depth detected: nose-eye diff = 4.00
+2025-07-03 12:50:46,086 - WARNING - Liveness failed.
+2025-07-03 12:50:48,546 - INFO - Recognition API called.
+2025-07-03 12:50:48,779 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:50:49,425 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:50:49,426 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 12:51:00,680 - INFO - Recognition API called.
+2025-07-03 12:51:01,013 - INFO - Liveness Check: Depth looks real
+2025-07-03 12:51:01,924 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-03 12:51:01,925 - INFO - Face matched with Niharika (ID: 499487)
+2025-07-03 14:22:06,198 - INFO - Starting API and loading employee data...
+2025-07-03 14:22:06,199 - INFO - Fetching employee data from external API...
+2025-07-03 14:23:31,369 - INFO - Fetched 20 employee records.
+2025-07-03 14:23:59,552 - INFO - Loaded 20 encodings.
+2025-07-03 14:23:59,555 - INFO - Employee data loaded successfully.
+2025-07-03 14:24:24,113 - INFO - Starting API and loading employee data...
+2025-07-03 14:24:24,114 - INFO - Fetching employee data from external API...
+2025-07-03 14:26:07,407 - INFO - Fetched 20 employee records.
+2025-07-03 14:26:32,365 - INFO - Loaded 20 encodings.
+2025-07-03 14:26:32,369 - INFO - Employee data loaded successfully.
+2025-07-04 09:27:43,827 - INFO - Starting API and loading employee data...
+2025-07-04 09:27:43,827 - INFO - Fetching employee data from external API...
+2025-07-04 09:27:48,667 - INFO - Fetched 20 employee records.
+2025-07-04 09:28:16,361 - INFO - Loaded 20 encodings.
+2025-07-04 09:28:16,366 - INFO - Employee data loaded successfully.
+2025-07-04 09:28:25,313 - INFO - Root route '/' accessed.
+2025-07-04 09:28:31,339 - INFO - Recognition API called.
+2025-07-04 09:28:31,657 - INFO - Liveness Check: Depth looks real
+2025-07-04 09:28:32,530 - INFO - Detected 1 face(s) in uploaded image.
+2025-07-04 09:28:32,534 - INFO - Face matched with Niharika (ID: 499487)
